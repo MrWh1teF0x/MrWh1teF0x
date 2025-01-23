@@ -4,7 +4,6 @@
 - ✍ I’m currently learning: algorithms on C++, Machine Learning, creating UI with Flutter
 - 📫 How to reach me: Telegram, Vk or email
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrWh1teF0x&&show_icons=true&theme=dracula" style="margin-right: 10px;">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrWh1teF0x&&show_icons=true&theme=dracula">
 </div>
 

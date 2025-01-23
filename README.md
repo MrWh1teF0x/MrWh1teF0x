@@ -1,4 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I'm @MrWh1teF0x. My name is Nikita Akramov.
+- 👨‍🎓 I am a second-year MIPT DAFE/RSE student.
+- 🧪 C++, C#, Python, SQL.
+- ✍ I’m currently learning: algorithms on C++, Machine Learning, creating UI with Flutter
+- 📫 How to reach me: Telegram, Vk or email
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrWh1teF0x&&show_icons=true&theme=dracula" style="margin-right: 10px;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrWh1teF0x&&show_icons=true&theme=dracula">
+</div>
 
 <!--
 **MrWh1teF0x/MrWh1teF0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
